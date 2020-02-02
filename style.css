@@ -152,3 +152,9 @@ margin: 40px;
     display: none;
   }
 }
+.project-text{
+  text-align: center;
+  font-size: 12px;
+  margin-top: -10px;
+  font-weight: bolder;
+}
